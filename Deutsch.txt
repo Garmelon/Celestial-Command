@@ -251,23 +251,23 @@
 #249# Tangentialgeschw.
 #250# Winkelgeschw.
 #251# Baumenü öffnen
-#252# ausgewähltes Modul entfernen
+#252# Ausgewähltes Modul entfernen
 #253# Kontrolle zum vorherigen Schiff umschalten
 #254# Kontrolle zum nächsten Schiff umschalten
 #255# Reset Zeitveränderung
 #256# Zeit verlangsamen
 #257# Zeit beschleunigen
 #258# Zeige Lagerbehälter
-#259# Inhalt aller Speicherbehälter des aktuellen Schiff anzeigen. Die Inhalte können per Drag-and-Drop mit der linken Maustaste zwischen Containern verschoben werden. Während Sie die Taste links SHIFT halten können Sie eine bestimmte Menge an Ressourcen zu übertragen.
-#260# Anzeigen der Crewmitglieder des aktuelles Schiffes. Ein Crewmitglied kann durch drag & drop verschoben werden.
-#261# Anteige Verbindungspunkte
-#262# Zeigt Ressourcen-Anschlüsse für das aktuelle Schiff. Wenn das Modul einige spezifische Ressourcen erfordert, sollte es mit Hilfe dieses Modus angeschlossen werden. Anschlüsse können per Drag & Drop an Module angeschlossen werden.
+#259# Inhalt aller Speicherbehälter des aktuellen Schiffs anzeigen. Die Inhalte können per Drag-and-Drop mit der linken Maustaste zwischen Containern verschoben werden. Halten Sie die Links-Shift-Taste gedrückt, um eine bestimmte Menge an Ressourcen zu übertragen.
+#260# Crewmitglieder des aktuelles Schiffes anzeigen. Ein Crewmitglied kann durch Drag-and-Drop verschoben werden.
+#261# Verbindungspunkte anzeigen
+#262# Zeigt Ressourcen-Anschlüsse für das aktuelle Schiff. Wenn das Modul einige spezifische Ressourcen erfordert, sollte es mit Hilfe dieses Modus angeschlossen werden. Anschlüsse können per Drag-and-Drop an Module angeschlossen werden.
 #263# Montagepunkte
-#264# Zeigt Montagepunkte für das aktuelle Schiff. Montagepunkte können mit einem Links-klick verbunden und gelöst werden.
+#264# Zeigt Montagepunkte für das aktuelle Schiff. Montagepunkte können mit einem Linksklick verbunden und gelöst werden.
 #265# Zeigt Massenmittelpunkt für das aktuelle Schiff.
-#266# RCS Feststellen
+#266# RCS feststellen
 #267# Rotation des Schiffes durch Triebwerksnutzung stabilisieren.
-#268# Wenn aktiviert: Schiff auswählen und durch Rechts-klick eine Position zuweisen (Autopilot).
+#268# Wenn aktiviert: Schiff auswählen und durch Rechtsklick eine Position zuweisen (Autopilot).
 #269# Anzeige des Hüllenstatus.
 #270# Temporäre Anzeige für Schiffszustand.
 #271# Schließfach drehen
@@ -275,13 +275,13 @@
 #273# Blick fokussieren
 #274# Blick auf ausgewähltes Objekt fokussieren
 #275# Kameraschwenk zurücksetzen
-#276# Kameraausrichtung zurücksetzen um ausgewähltes Objekt zu fokussieren.
+#276# Kameraausrichtung zurücksetzen, um ausgewähltes Objekt zu fokussieren.
 #277# Geschwindigkeit anzeigen
-#278# Zeige relative Geschwindigkeit (orange) und Richtung (weiss) zum ausgewählten Objekt.
+#278# Zeige relative Geschwindigkeit (orange) und Richtung (weiß) zum ausgewählten Objekt.
 #279# Rasteransicht umschalten
 #280# Rechteckiges Raster relativ zum Stern anzeigen.
 #281# Aktuelle Energiemenge
-#282# Maximale Energie Kapazität
+#282# Maximale Energiekapazität
 #283# Energie - Eingang
 #284# Energie - Ausgang
 #285# Summer der Gesamtenergie (Eingang & Ausgang)
@@ -291,10 +291,10 @@
 #289# Fraktion
 #290# Schiff umbenennen
 #291# Gesamtmasse der Struktur
-#292# Dieser Parameter zeigt wieviel Kraft nötig ist um das Schiff zu drehen. Um den Wert zu senken sollten die Module mit der höchsten Masse im Zentrum des Schiffes plaziert werden.
-#293# Einschließlich der Masse der Inhalte wenn es sich um Behälter oder Frachtbuchten handelt.
-#294# strukturelle Integrität
-#295# Ein-/Ausschalten der manuellen Kontrolle für ausgewählte Waffengruppen. Links-Shift + Lnke Maustaste für automatischen Modus (Automatisches Feuern).
+#292# Dieser Parameter zeigt, wieviel Kraft nötig ist, um das Schiff zu drehen. Um den Wert zu senken, sollten die Module mit der höchsten Masse im Zentrum des Schiffes platziert werden.
+#293# Einschließlich der Masse der Inhalte, wenn es sich um Behälter oder Frachtbuchten handelt.
+#294# Strukturelle Integrität
+#295# Ein-/Ausschalten der manuellen Kontrolle für ausgewählte Waffengruppen. Links-Shift + linke Maustaste für automatischen Modus (Automatisches Feuern).
 #296# Ausgewählten Behälter mit Sauerstoff füllen
 #297# Ausgewählten Behälter mit Wasserstoff füllen
 #298# Ausgewählten Behälter mit Xenon füllen
@@ -303,24 +303,24 @@
 #301# Ausgewählten Energiespeicher vollständig laden.
 #302# Ausgewählten Behälter mit Nahrung füllen
 #303# Dem ausgewählten Modul ein Crewmitglied zuweisen.
-#304# Erstellen Sie ein feindliche Schiff an einem zufälligem Punkt um den Planeten, das automatisch das Schiff des Spielers angreift.
+#304# Ein feindliche Schiff, das automatisch das Schiff des Spielers angreift, an einem zufälligem Punkt um den Planeten erstellen.
 #305# Dem Schiff eine künstliche Intelligenz zuweisen. Es wird der alliierten Fraktion zugewiesen und dem Spieler folgen.
-#306# Das Schiff wird automatisch zum ausgewählten Objekt fliegen, ein zweiter Kaus-Klick schaltet den Autopiloten aus.
+#306# Das Schiff wird automatisch zum ausgewählten Objekt fliegen, ein zweiter Klick schaltet den Autopiloten aus.
 #307# Gesamtes Schiff oder Asteroiden entfernen
-#308# Achtung: Diese Aktion kann für die aktuelle Welt nicht rückgängig gemacht werden. Das ausschalten der Gravitation (Schwerkraft) wird alle Objekte an ihre aktuelle Position binden (keine Bewegung). Nur zu Testzwecken empfohlen.
-#309# (Unfertige Fähigkeit) Drücke die Taste und Klicke mit der Maus in den Weltraum um einen orbitalen Flugbahnplan zu erstellen. Positions- und Geschwindigkeitspunkte können mit der linken Maustaste verschoben werden. Mit der rechten Maustaste werden diese Punkte gelöscht.
-#310# Wenn aktiviert kann mit der linken Maustaste Trümmerteile gesetzt werden. Shift+L-Maustaste schleudern das Trümmerstück mit zufälliger Geschwindigkeit hinfort.
-#311# Händler ist bereit diese Ware(n) zu kaufen
-#312# Händler ist bereit diese Ware(n) zu verkaufen
+#308# Achtung: Diese Aktion kann für die aktuelle Welt nicht rückgängig gemacht werden. Das Ausschalten der Gravitation (Schwerkraft) wird alle Objekte an ihre aktuelle Position binden (keine Bewegung). Nur zu Testzwecken empfohlen.
+#309# (Unfertige Fähigkeit) Drücke die Taste und klicke mit der Maus in den Weltraum, um einen orbitalen Flugbahnplan zu erstellen. Positions- und Geschwindigkeitspunkte können mit der linken Maustaste verschoben werden. Mit der rechten Maustaste werden diese Punkte gelöscht.
+#310# Wenn aktiviert, können mit der linken Maustaste Trümmerteile gesetzt werden. Shift + linke Maustaste schleudern das Trümmerstück mit zufälliger Geschwindigkeit weg.
+#311# Händler ist bereit, diese Ware(n) zu kaufen
+#312# Händler ist bereit, diese Ware(n) zu verkaufen
 #313# Namen ändern
-#314# Rank ändern
+#314# Rang ändern
 #315# Unfertiges Attribut
-#316# Crewmitglieder werden automatisch Nahrung aus jedem Lagerbehälter verbrauchen sobald Ihre Sättigung unter 75% fällt (dieser Wert ist um 25% vermindert für 2 Minuten).
+#316# Crewmitglieder werden automatisch Nahrung aus jedem Lagerbehälter verbrauchen, sobald Ihre Sättigung unter 75% fällt (dieser Wert ist für 2 Minuten um 25% vermindert).
 #317# Unfertiges Attribut
 #318# Ausgewählten Lagerraum mit Wasserstoff füllen
 #319# Dem ausgewählten Modul ein Crewmitglied zuweisen.
-#320# Öffnet das Handelsinterface. (Notiz: Um mit einer Station zu handeln muss das Handelsinterface geöffnet sein, dein Schiff muss angedockt sein und beide Andockschleusen müssen aktiviert sein (grün). Um etwas zu kaufen öffne das Frachtinterface und ziehe die gewünschte Ware mit der Maus von der Station auf deinen Kontainer. Um etwas zu verkaufen - setze einen Rechts-Klick auf die Ware in deinem Kontainer.
-#321# Öffne das Konstruktionsmenü der Schiffswerft. Während sich dein Schiff innerhalb der Schiffswerft befindet kannst du Teile/Module für Kredits kaufen und verkaufen. 
+#320# Öffnet das Handelsinterface. (Notiz: Um mit einer Station zu handeln, muss das Handelsinterface geöffnet sein, dein Schiff muss angedockt sein und beide Andockschleusen müssen aktiviert sein (grün). Um etwas zu kaufen, öffne das Frachtinterface und ziehe die gewünschte Ware mit der Maus von der Station auf deinen Kontainer. Um etwas zu verkaufen - setze einen Rechts-Klick auf die Ware in deinem Container.
+#321# Öffne das Konstruktionsmenü der Schiffswerft. Während sich dein Schiff innerhalb der Schiffswerft befindet, kannst du Teile/Module für Kredits kaufen und verkaufen. 
 #322# Flugbahnstatus
 #323# Position relativ zum Planeten oder Stern
 #324# Entfernung vom Zentrum des Planeten bis zum äußersten Punkt auf der Umlaufbahn
@@ -333,7 +333,7 @@
 #331# Frachtcontainer 1
 #332# chemisches Triebwerk
 #333# Flüssigkeitsbehälter 1
-#334# Nuclear Reaktor
+#334# Nuklearer Reaktor
 #335# Energiespeicher
 #336# Ingenieursmodul
 #337# Radar
@@ -354,7 +354,7 @@
 #352# Ballistikkanone 2
 #353# Korridor
 #354# Korridor 3-Verbindungsstellen
-#355# Kommando Modul
+#355# Kommandomodul
 #356# Eckkorridor
 #357# Reaktionsrad (Positionsstabilisierung)
 #358# Warpantrieb
@@ -363,14 +363,14 @@
 #361# Flüssigkeitsbehälter 3
 #362# Bergbaulaser
 #363# Flüssigkeitsbehälter 4
-#364# Kommando Modul 2
+#364# Kommandomodul 2
 #365# Schild-Generator
 #366# Frachttor
 #367# Traktorstrahl
-#368# Ionen Triebwerk
+#368# Ionentriebwerk
 #369# Strukturträger
 #370# Raketenwerfer
-#371# 2x1 Adapter
+#371# 2x1-Adapter
 #372# Schiffswerft
 #373# Hydroponik
 #374# Schiffswerft
@@ -384,15 +384,15 @@
 #382# Alliierter
 #383# Feind
 #384# Nicht die Fraktion ändern
-#385# Das nächste geklonte Schiff wird der gleichen Fraktion angehören wie der Originalschiff.
+#385# Das nächste geklonte Schiff wird der gleichen Fraktion angehören wie das Originalschiff.
 #386# Das nächste geklonte Schiff wird der alliierten Fraktion angehören.
 #387# Das nächste geklonte Schiff wird der feindlichen Fraktion angehören.
 #388# Asteroid
 #389# Malwerkzeug
-#390# Modul zum bemalen auswählen
-#391# Links-Klick zum malen
+#390# Modul zum Bemalen auswählen
+#391# Linksklick zum Malen
 #392# Gespeicherte Schiffe
-#393# Schiff Speichern
+#393# Schiff speichern
 #394# Kein Schiff ausgewählt
 #395# Schiff gespeichert
-#396# Click to place a ship
+#396# Klicken, um ein Schiff zu plazieren
